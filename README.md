@@ -3,21 +3,25 @@
 Ce projet contient plusieurs travaux pratiques (TP) regroupés dans des branches distinctes. Chaque branche correspond à un TP spécifique et contient des explications, des instructions d'installation, et des détails sur son fonctionnement.
 
 ## Table des matières
-- TP1
+- [TP1](#tp1)
+- [TP2](#tp2)
 
 ## TP1 
 - **Branche**: [TP1](https://github.com/abdeLKabir-56/tps_angular/tree/TP1)
-- **Description**: mini game with the pokedex api 
+- **Description**: Mini jeu utilisant l'API Pokedex.
 - **Installation**:
   ```bash
   git checkout TP1
   npm install
   npm start
+  ```
+
 ## TP2
 - **Branche**: [TP2](https://github.com/abdeLKabir-56/tps_angular/tree/TP2)
-- **Description**: tp express js
+- **Description**: TP utilisant Express.js. Le rapport du TP est dans le dossier `/rapport_du_tp`.
 - **Installation**:
   ```bash
   git checkout TP2
   npm install
   npm start
+  ```

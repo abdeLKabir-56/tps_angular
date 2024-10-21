@@ -13,3 +13,11 @@ Ce projet contient plusieurs travaux pratiques (TP) regroupés dans des branches
   git checkout TP1
   npm install
   npm start
+## TP2
+- **Branche**: [TP1](https://github.com/abdeLKabir-56/tps_angular/tree/TP2)
+- **Description**: tp express js
+- **Installation**:
+  ```bash
+  git checkout TP2
+  npm install
+  npm start

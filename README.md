@@ -5,7 +5,8 @@ Ce projet contient plusieurs travaux pratiques (TP) regroupés dans des branches
 ## Table des matières
 - [TP1](#tp1)
 - [TP2](#tp2)
-
+- [TP3](#tp3)
+  
 ## TP1 
 - **Branche**: [TP1](https://github.com/abdeLKabir-56/tps_angular/tree/TP1)
 - **Description**: Mini jeu utilisant l'API Pokedex.
@@ -22,6 +23,15 @@ Ce projet contient plusieurs travaux pratiques (TP) regroupés dans des branches
 - **Installation**:
   ```bash
   git checkout TP2
+  npm install
+  npm start
+  ```
+  ## TP3
+- **Branche**: [TP3](https://github.com/abdeLKabir-56/tps_angular/tree/tp3)
+- **Description**: TP du typescript
+- **Installation**:
+  ```bash
+  git checkout TP3
   npm install
   npm start
   ```

@@ -28,7 +28,7 @@ Ce projet contient plusieurs travaux pratiques (TP) regroupés dans des branches
   ```
   ## TP3
 - **Branche**: [TP3](https://github.com/abdeLKabir-56/tps_angular/tree/tp3)
-- **Description**: TP du typescript
+- **Description**: TP du typescript (Book Reading tracker)
 - **Installation**:
   ```bash
   git checkout TP3
